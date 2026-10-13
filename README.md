@@ -14,6 +14,7 @@
 ## Документація
 
 - [Project Brief — опис проєкту](project-brief.md)
+- [Project Classification — класифікація проєкту та аналіз оточення](project-classification.md)
 
 ## Основна мета
 
