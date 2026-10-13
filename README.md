@@ -15,6 +15,7 @@
 
 - [Project Brief — опис проєкту](project-brief.md)
 - [Project Classification — класифікація проєкту та аналіз оточення](project-classification.md)
+- [Project Lifecycle — життєвий цикл проєкту](project-lifecycle.md)
 
 ## Основна мета
 
