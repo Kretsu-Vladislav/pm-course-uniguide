@@ -5,6 +5,7 @@
 ## Команда проєкту
 
 |       Учасник команди      |      Роль       |  GitHub username |
+|---|---|---|
 | Крецу Владислав Сергійович | Project Manager | Kretsu-Vladislav |
 | Крецу Владислав Сергійович | Product Owner   | Kretsu-Vladislav | 
 | Крецу Владислав Сергійович | Developer       | Kretsu-Vladislav |
